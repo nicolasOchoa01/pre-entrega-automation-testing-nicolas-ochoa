@@ -1,4 +1,4 @@
-# Pre-Entrega de Proyecto: Automatización de Pruebas E2E en Saucedemo
+# Pre-Entrega de Proyecto: Automatización de Pruebas en Saucedemo
 
 Este repositorio contiene la solución de la pre-entrega de automatización de pruebas para el sitio web [SauceDemo](https://www.saucedemo.com/), utilizando **Python**, **Selenium WebDriver** y **Pytest**.
 
